@@ -10,23 +10,23 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La curiosidad y el análisis mueven la tecnología</h2></summary>
+    <summary><h2 style="display: inline-block">Estudiante de Ingeniería de Sistemas | Apasionado por la Ciberseguridad y el Desarrollo Backend</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 Actualmente cursando el **IX Ciclo de Ingeniería de Sistemas** en la UNJFSC.
-- 💼 Trabajando en soporte técnico e infraestructura TI, y con experiencia previa como **Desarrollador Backend Junior**.
-- ☁️ Apasionado por las **Redes y la Ciberseguridad**, construyendo laboratorios prácticos de análisis de vulnerabilidades.
-- 🌱 Actualmente mejorando mi nivel de **Inglés (Intermedio)** y profundizando en fundamentos de redes Cisco.
-- 💬 Pregúntame sobre **PHP (Laravel), SQL, Redes (TCP/IP), Nmap o Soporte TI**.
-- 📫 Puedes contactarme en **huamanroncaledgar@gmail.com** o al **972078553**.
+- 🎓 Actualmente cursando el **IX Ciclo de Ingeniería de Sistemas** en la Universidad Nacional José Faustino Sánchez Carrión.
+- 🛡️ Enfocado firmemente en potenciar mis habilidades en **Ciberseguridad**, redes y análisis de vulnerabilidades mediante laboratorios prácticos.
+- 💻 Cuento con experiencia previa como **Desarrollador Backend Junior** trabajando con arquitecturas MVC y APIs REST[cite: 1].
+- 🌱 Dedicando tiempo diario a perfeccionar mi nivel de **Inglés (Intermedio)** para comunicación técnica y global[cite: 1].
+- 💬 Pregúntame sobre **PHP (Laravel), bases de datos SQL, hacking ético defensivo o escaneo con Nmap**[cite: 1].
+- 📫 Conéctate conmigo o escríbeme a **huamanroncaledgar@gmail.com**[cite: 1].
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -40,17 +40,15 @@
         <img title="🔥 Streak de contribuciones" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kushito1&theme=dark&hide_border=false" /> 
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kushito1&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kushito1&theme=dark&hide_border=false&langs_count=10" />
       </td>
     </tr>
   </table>
 </p>
 
-<!--- trophy (start) -->
+<!--- trophy -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Ver Trofeos">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=kushito1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROFEOS" />
-  </a>
+  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=kushito1&theme=dark&row=1&column=7" alt="TROFEOS" />
 </div>
 <!--- trophy (end) -->
 
@@ -64,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Iconos personalizados basados en tus habilidades reales de CV -->
+    <!-- Iconos basados rigurosamente en tu stack y herramientas de ciberseguridad -->
     <img src="https://skillicons.dev/icons?i=git,github,php,laravel,py,cs,html,css,js,mysql,sqlserver,linux,windows,vscode,wireshark,postman&perline=14" />
   </a>
 </p>
@@ -73,7 +71,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate Conmigo 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contacto y Redes Profesionales 🤝</h2></summary>
   </ul>
 </div>
 
