@@ -8,15 +8,11 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Estudiante de Ingeniería de Sistemas | Apasionado por la Ciberseguridad y el Desarrollo Backend</h2></summary>
+    <summary><h2 style="display: inline-block">Estudiante de Ingeniería de Sistemas | Apasionado por la Ciberseguridad y el Desarrollo de Software</h2></summary>
   </ul>
 </div>
 
@@ -56,11 +52,6 @@
   <a href="mailto:huamanroncaledgar@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" /></a>
 </p>
 
-<!--profile visit count-->
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=kushito1&icon=3&color=6" alt="Visit Count">
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
