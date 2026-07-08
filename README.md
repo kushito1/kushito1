@@ -33,11 +33,9 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Iconos basados rigurosamente en tu stack y herramientas de ciberseguridad -->
-    <img src="https://skillicons.dev/icons?i=git,github,php,laravel,py,cs,html,css,js,mysql,sqlserver,linux,windows,vscode,wireshark,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,php,laravel,py,cs,html,css,js,mysql,sqlserver,linux,windows,vscode,wireshark,postman,nmap&perline=9" />
   </a>
 </p>
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
